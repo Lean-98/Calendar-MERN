@@ -122,6 +122,7 @@ export const CalendarModal = () => {
 
             <div className="form-group mb-2">
                 <label>Fecha y hora inicio</label>
+                <br/>
                 <DatePicker 
                     selected={ formValues.start }
                     onChange={ (event) => onDateChanged(event, 'start') }
@@ -135,6 +136,7 @@ export const CalendarModal = () => {
 
             <div className="form-group mb-2">
                 <label>Fecha y hora fin</label>
+                <br/>
                 <DatePicker 
                     minDate={ formValues.start }
                     selected={ formValues.end }
