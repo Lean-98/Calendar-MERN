@@ -1,5 +1,7 @@
-# Calendar-MERN
-Html Css BootStrap JavaScript React v18.2.0 Redux Redux Toolkit React Router 6 font-awesome Sweetalert2 react-big-calendar react-modal React Date Picker Yarn Vite
+# Calendar-MERN-Frontend
+**Tech Stack:** *Html Css BootStrap JavaScript React v18.2.0 Redux Redux Toolkit React Router 6 font-awesome Sweetalert2 react-big-calendar react-modal React Date Picker Yarn Vite*
+
+
 
 ## Development Steps:
 
@@ -10,3 +12,8 @@ Html Css BootStrap JavaScript React v18.2.0 Redux Redux Toolkit React Router 6 f
 VITE_API_URL=http://localhost:4007/api
 
 ````
+
+## Demo
+
+- Netlify -> [Calendar-V1.0](https://calendar-mern-24.netlify.app/auth/login)
+- Vercel -> [Calendar-V1.0](https://calendar-mern-seven.vercel.app/auth/login)
