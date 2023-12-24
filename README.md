@@ -1,5 +1,7 @@
-# Calendar-App 📅 | Frontend
-Create, organize, update your events with colaborative application.
+# 📅 Calendar-App | Frontend
+
+The "CalendarApp" project is a collaborative application that allows users to create, organise and update their events efficiently. With login and account creation functionalities, this application provides a platform for collaborative event management.
+Built with a technology stack that includes CSS, Bootstrap, JavaScript, React, Redux, Redux Toolkit and React Router 6, this application offers a dynamic and responsive experience for users. Its MVC-based architecture and the implementation of services (API) position it as a scalable application, with a well-organised folder structure that facilitates its maintenance and long-term growth.
 
 >**Tech Stack:** </br>
 *Html Css BootStrap JavaScript React v18.2.0 Redux Redux Toolkit React Router 6 Yarn Vite*
@@ -50,3 +52,8 @@ VITE_API_URL=http://localhost:4007/api
 
 - Netlify -> [Calendar-V1.0](https://calendar-mern-24.netlify.app/auth/login)
 - Vercel -> [Calendar-V1.0](https://calendar-mern-seven.vercel.app/auth/login)
+
+
+  ## Authors
+
+- [@LeandroPiazza](https://www.github.com/Lean-98)
