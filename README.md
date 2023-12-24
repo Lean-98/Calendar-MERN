@@ -1,7 +1,6 @@
 # 📅 Calendar-App | Frontend
 
-The "CalendarApp" project is a collaborative application that allows users to create, organise and update their events efficiently. With login and account creation functionalities, this application provides a platform for collaborative event management.
-Built with a technology stack that includes CSS, Bootstrap, JavaScript, React, Redux, Redux Toolkit and React Router 6, this application offers a dynamic and responsive experience for users. Its MVC-based architecture and the implementation of services (API) position it as a scalable application, with a well-organised folder structure that facilitates its maintenance and long-term growth.
+CalendarApp is a collaborative application that allows you to create, organise and update events efficiently. With login and account creation functionalities, this application offers a secure and personalised experience for users. Using a robust technology stack that includes CSS, Bootstrap, JavaScript, React, Redux, Redux Toolkit and React Router 6, as well as a MERN architecture, CalendarApp is designed to be a scalable application thanks to its solid folder structure and its architecture based on the Model-View-Controller (MVC) pattern. With the implementation of services (API), this application offers a versatile and efficient platform for event management, with the ability to adapt and grow with the needs of users.
 
 >**Tech Stack:** </br>
 *Html Css BootStrap JavaScript React v18.2.0 Redux Redux Toolkit React Router 6 Yarn Vite*
