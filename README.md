@@ -54,6 +54,6 @@ VITE_API_URL=http://localhost:4007/api
 - Vercel -> [Calendar-V1.0](https://calendar-mern-seven.vercel.app/auth/login)
 
 
-  ## Authors
+ ## Authors
 
 - [@LeandroPiazza](https://www.github.com/Lean-98)
