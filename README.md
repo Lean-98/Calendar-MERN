@@ -49,8 +49,8 @@ VITE_API_URL=http://localhost:4007/api
 
 ## Demo
 
-- Netlify -> [Calendar-V1.0](https://calendar-mern-24.netlify.app/auth/login)
-- Vercel -> [Calendar-V1.0](https://calendar-mern-seven.vercel.app/auth/login)
+- Netlify -> [Calendar-V1.0](https://calendar-mern-24.netlify.app/)
+- Vercel -> [Calendar-V1.0](https://calendar-mern-seven.vercel.app/)
 
 
  ## Authors
